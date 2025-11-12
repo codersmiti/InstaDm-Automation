@@ -1,0 +1,34 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# --- Virtual Environment ---
+venv/
+.env
+.env.local
+*.env
+
+# --- IDE / OS files ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- App data ---
+logs_multi/
+sessions/
+
+
+# --- Cache ---
+*.cache
+*.bak
+*.tmp
+
+# --- Misc ---
+*.swp
+*.swo
